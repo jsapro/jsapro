@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <img align="left" src="./images/verified.gif" alt="verified gif" height="75" width="75">
 
-<img align="right" src="./images/programming.gif" alt="man programming" height="400" width="600">
+<img align="right" src="./images/programming.gif" alt="man programming" height="300" width="500">
 
 <br/>
 
