@@ -21,5 +21,13 @@ Here are some ideas to get you started:
 
 <br/>
 
-<h1 align="center">Hi there, I'm Aleksey 👋
-<h3 align="center">Frontend Developer</h3>
+<h1 align="center">ℍ𝕚 𝕥𝕙𝕖𝕣𝕖, 𝕀'𝕞 ᗩℓⒺҜ𝔰Ẹ𝓨 
+<h3 align="center">千𝐑ᵒ𝓷𝐓€η𝐝 ∂єⓥ𝑒lⓄ𝐩𝐞Ř</h3>
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=35000&color=FFFFFF&center=true&vCenter=true&width=700&lines=%E3%80%8E%3F%E3%80%8F%E3%80%8E%3F%E3%80%8F%E3%80%8E%3F%E3%80%8F%E3%80%8E%3F%E3%80%8F%E3%80%8E%3F%E3%80%8F%E3%80%8E%3F%E3%80%8F%E3%80%8E%3F%E3%80%8F%E3%80%8E%3F%E3%80%8F%E3%80%8E%3F%E3%80%8F%E3%80%8E%3F%E3%80%8F%F0%9D%95%99%F0%9D%95%96%F0%9D%95%9D%F0%9D%95%9D%F0%9D%95%A0+%F0%9F%91%8B" alt="Typing SVG" /></a>
