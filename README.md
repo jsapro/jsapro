@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<br/>
+
+<img align="left" src="./images/verified.gif" alt="project photo" height="25" width="25">
+
+<img align="right" src="./images/programming.gif" alt="работа на ноутбуке на природе" height="400" width="600">
+
+<br/>
+
+<h1 align="center">Hi there, I'm <a href="#" target="_blank">Aleksey 👋</a> 
+<img src="../images/verified.gif" height="32"/></h1>
+<h3 align="center">Frontend Developer</h3>
