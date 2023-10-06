@@ -49,3 +49,8 @@ Here are some ideas to get you started:
   <img align="center" src="./images/tech_icons/webpack-icon.svg" alt="tech icon" height="27" width="27" />
   <img align="center" src="./images/tech_icons/git-icon.svg" alt="tech icon" height="27" width="27" />
 </div>
+
+&nbsp;
+<div align="center">
+  🅰 🅹🅾🆄🆁🅽🅴🆈 🅾🅵 🅰 🆃🅷🅾🆄🆂🅰🅽🅳 🅼🅸🅻🅴🆂 🅱🅴🅶🅸🅽🆂 🆆🅸🆃🅷 🅰 🆂🅸🅽🅶🅻🅴 🆂🆃🅴🅿
+</div>
