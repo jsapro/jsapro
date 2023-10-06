@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **jsapro/jsapro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<br/>
+
+<img align="left" src="./images/verified.gif" alt="verified gif" height="75" width="75">
+
+<img align="right" src="./images/programming.gif" alt="man programming" height="400" width="600">
+
+<br/>
+
+<h1 align="center">Hi there, I'm Aleksey 👋
+<h3 align="center">Frontend Developer</h3>
