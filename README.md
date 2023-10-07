@@ -30,7 +30,9 @@ Here are some ideas to get you started:
 
 &nbsp;
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=30000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=780&height=45&lines=%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%F0%9F%99%82%D6%81%D3%80%C4%85%D5%AA+%D5%A7%D6%85+%CA%82%D2%BD%D2%BD+%D5%BE%D6%85%D5%B4%F0%9F%91%8B" alt="Typing SVG" /></a>
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&duration=30000&pause=1000&color=1BFFAA&center=true&vCenter=true&width=800&height=45&lines=%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%F0%9F%99%82%D6%81%D3%80%C4%85%D5%AA+%D5%A7%D6%85+%CA%82%D2%BD%D2%BD+%D5%BE%D6%85%D5%B4%F0%9F%91%8B" alt="Typing SVG" /></a>
+</div>
 
 <div align="center">
   <span align="left">𝐓𝕖𝓒ⓗ Ŝт𝐚Ⓒ𝕂: </span>
