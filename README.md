@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 &nbsp;
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=35000&color=FFFFFF&center=true&vCenter=true&width=800&lines=%E3%80%8E%3F%E3%80%8F%E3%80%8E%3F%E3%80%8F%E3%80%8E%3F%E3%80%8F%E3%80%8E%3F%E3%80%8F%E3%80%8E%3F%E3%80%8F%E3%80%8E%3F%E3%80%8F%E3%80%8E%3F%E3%80%8F%E3%80%8E%3F%E3%80%8F%E3%80%8E%3F%E3%80%8F%E3%80%8E%3F%E3%80%8F%E3%80%8E%3F%E3%80%8F%E3%80%8E%3F%E3%80%8F%E3%80%8E%3F%E3%80%8F%F0%9D%95%99%F0%9D%95%96%F0%9D%95%9D%F0%9D%95%9D%F0%9D%95%A0+%F0%9F%91%8B" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=30000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=780&height=45&lines=%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%F0%9F%99%82%D6%81%D3%80%C4%85%D5%AA+%D5%A7%D6%85+%CA%82%D2%BD%D2%BD+%D5%BE%D6%85%D5%B4%F0%9F%91%8B" alt="Typing SVG" /></a>
 
 <div align="center">
   <span align="left">𝐓𝕖𝓒ⓗ Ŝт𝐚Ⓒ𝕂: </span>
@@ -56,6 +56,5 @@ Here are some ideas to get you started:
 </div>
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=30000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=780&height=45&lines=%E3%80%8E%E3%80%8F+%E2%9C%B4+%E3%80%8E%E3%80%8F+%E5%BD%A1+%E3%80%8E%E3%80%8F+%E2%9C%B1+%E3%80%8E%E3%80%8F++%E2%9D%82+%E3%80%8E%E3%80%8F+%E5%BD%A1+%E3%80%8E%E3%80%8F+%E2%9C%B4+%E3%80%8E%E3%80%8F++%F0%9D%95%98%F0%9D%95%9D%F0%9D%95%92%F0%9D%95%95+%F0%9D%95%A5%F0%9D%95%A0+%F0%9D%95%A4%F0%9D%95%96%F0%9D%95%96+%F0%9D%95%AA%F0%9D%95%A0%F0%9D%95%A6+%F0%9F%99%82" alt="Typing SVG" /></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=30000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=780&height=45&lines=%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%F0%9F%99%82%D6%81%D3%80%C4%85%D5%AA+%D5%A7%D6%85+%CA%82%D2%BD%D2%BD+%D5%BE%D6%85%D5%B4%F0%9F%91%8B" alt="Typing SVG" /></a>
+
